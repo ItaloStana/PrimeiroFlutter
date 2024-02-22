@@ -1,0 +1,1 @@
+Aqui está o 1º projeto com a linguagem Dart e seu framework Flutter onde tenho aptidão para desenvolver aplicativos tanto para plataforma Android quanto para a plataforma iOS, é um questionario básico para dar os passos iniciais na linguagem.
